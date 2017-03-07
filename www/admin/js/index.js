@@ -117,3 +117,5 @@
 
         console.log( "ready!" );
     });
+
+var auction = new vue({});
