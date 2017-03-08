@@ -118,4 +118,7 @@
         console.log( "ready!" );
     });
 
-var auction = new vue({});
+var auction_app = new vue({
+
+
+});
